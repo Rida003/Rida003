@@ -16,7 +16,7 @@
 
 
 <p align='left'>
-  &nbsp;<b>II'm skilled in :</b>
+  &nbsp;<b>I'm skilled in :</b>
 
 ![vscode](https://img.icons8.com/color/50/000000/visual-studio-code-2019.png "vscode")
 ![bash](https://img.icons8.com/plasticine/50/000000/bash.png "bash")
@@ -26,7 +26,6 @@
 ![Javascript](https://img.icons8.com/color/50/000000/javascript--v1.png "Javascript")
 ![php](https://img.icons8.com/fluency/50/000000/php.png
 "php")
-
 
   <p align='left'>
   &nbsp;<b>Interested on :</b>
@@ -42,10 +41,6 @@
 <h1>
 
 
-<p align='left'>
-  &nbsp;<b>Softwares I'm Familiar with :
-
-  </b>
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
