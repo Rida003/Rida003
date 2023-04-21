@@ -1,18 +1,13 @@
-<h3 align="left"> 
 
-
-| <a href="https://github.com/Rida003"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rida003&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rida003's github stats" /></a> | <a href="https://github.com/Rida003/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida003&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
+<p>
 
 <br>
 <p align='left'>
   &nbsp;<b>You can talk to me on :</b><br>
 
-[![Linkedin](https://img.icons8.com/fluency/50/000000/linkedin.png)](https://www.linkedin.com/in/rida-e-75a574257/ "Linkedin")
-[![Twitter](https://img.icons8.com/fluency/50/000000/twitter.png)](https://twitter.com/RidaEssahi "Twitter")
-[![discord](https://img.icons8.com/fluency/50/000000/discord.png)](https://discord.gg/nightcrew "Discord")
+[![Linkedin](https://img.icons8.com/fluency/40/000000/linkedin.png)](https://www.linkedin.com/in/rida-e-75a574257/ "Linkedin")
+[![Twitter](https://img.icons8.com/fluency/40/000000/twitter.png)](https://twitter.com/RidaEssahi "Twitter")
+[![discord](https://img.icons8.com/fluency/40/000000/discord.png)](https://discord.gg/nightcrew "Discord")
 
 
 <p align='left'>
@@ -26,6 +21,13 @@
 ![Javascript](https://img.icons8.com/color/50/000000/javascript--v1.png "Javascript")
 ![php](https://img.icons8.com/fluency/50/000000/php.png
 "php")
+
+
+
+
+
+
+
 
   <p align='left'>
   &nbsp;<b>Interested on :</b>
@@ -49,7 +51,3 @@
 
 </p><br><br>
 
-___
-
-![Made with love in Morocco](https://madewithlove.vercel.app/ma?heart=true&colorA=%2300a814&template=flat-square)
-</h1>
