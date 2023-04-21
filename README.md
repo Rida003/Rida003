@@ -1,24 +1,22 @@
 <h3 align="left"> 
 
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWIzNzBiZDIyMmY4ZDBkZGJlNGY3M2IwNzA5MmU0MTViYjYyYTM5OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif)
 
-
-**I'm Rida Essahi, an engineering student at the** [Polytechnic School of Agadir](https://moodle.e-polytechnique.ma/?id=bkVDd0pXUEdHTVc5V1RlVk9vSG80dz09") **who is presently enrolled at** [Holberton School](https://www.holbertonschool.com/) **I have a strong interest in technology and a desire to study and grow in a varied team. "An enthusiastic self-taught web developer who is passionate about front-end technology. Working in both robotics and electrical engineering is something that interests me.**
-
+| <a href="https://github.com/Rida003"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rida003&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rida003's github stats" /></a> | <a href="https://github.com/Rida003/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rida003&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
-<h3 align="left">
-
-**You can talk to me on:**
+<br>
+<p align='left'>
+  &nbsp;<b>You can talk to me on :</b><br>
 
 [![Linkedin](https://img.icons8.com/fluency/50/000000/linkedin.png)](https://www.linkedin.com/in/rida-e-75a574257/ "Linkedin")
 [![Twitter](https://img.icons8.com/fluency/50/000000/twitter.png)](https://twitter.com/RidaEssahi "Twitter")
 [![discord](https://img.icons8.com/fluency/50/000000/discord.png)](https://discord.gg/nightcrew "Discord")
 
 
-
-**I'm skilled in:**
+<p align='left'>
+  &nbsp;<b>II'm skilled in :</b>
 
 ![vscode](https://img.icons8.com/color/50/000000/visual-studio-code-2019.png "vscode")
 ![bash](https://img.icons8.com/plasticine/50/000000/bash.png "bash")
@@ -30,7 +28,8 @@
 "php")
 
 
-**Interested on:**
+  <p align='left'>
+  &nbsp;<b>Interested on :</b>
 
 ![roboticsengineering](https://img.icons8.com/fluency/50/000000/robot.png
 "Robotics engineering")
@@ -38,9 +37,22 @@
 ![Svelte](https://img.icons8.com/doodle/50/000000/svetle.png "Svelte")
 ![flutter](https://img.icons8.com/fluency/50/000000/flutter.png "flutter")
 ![electricalengineering](https://img.icons8.com/fluency/50/000000/electrical.png
- "Electrical")
+ "Electrical")<br><br><br>
 
 <h1>
 
-![Made with love in Morocco](https://madewithlove.now.sh/ma?colorA=%23006233&colorB=%23c1272d&template=for-the-badge)
+
+<p align='left'>
+  &nbsp;<b>Softwares I'm Familiar with :</b>
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-330D3E?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+</p><br><br>
+
+___
+
+![Made with love in Morocco](https://madewithlove.vercel.app/ma?heart=true&colorA=%2300a814&template=flat-square)
 </h1>
