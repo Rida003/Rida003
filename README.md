@@ -11,7 +11,7 @@
 
 
 <p align='left'>
-  &nbsp;<b>I'm skilled in :</b>
+  &nbsp;<b>I Work with :</b>
 
 ![vscode](https://img.icons8.com/color/50/000000/visual-studio-code-2019.png "vscode")
 ![bash](https://img.icons8.com/plasticine/50/000000/bash.png "bash")
